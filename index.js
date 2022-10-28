@@ -5,8 +5,8 @@ var Input2;
 var EntBtn;
 
 function Initialize() {
-    Input1 = document.getElementById('Input1');
-    Input2 = document.getElementById('Input2');
+    Input1 = document.getElementById('input1');
+    Input2 = document.getElementById('input2');
     EntBtn = document.getElementById('Enter');
     EntBtn.addEventListener('click', Print);
 }
