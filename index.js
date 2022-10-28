@@ -9,3 +9,8 @@ function Initialize() {
     Input2 = document.getElementById('Input2');
     EntBtn = document.getElementById('Enter');
 }
+
+entbtn.addeventlistener('click', print);
+
+function print() {
+    console.log("Whatever it doesn't matter")
