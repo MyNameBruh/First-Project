@@ -1,6 +1,6 @@
 body {
     background-color: white;
-    color: palegreen;
+    color: black;
     display: inline-flex;
 }
 
@@ -9,7 +9,7 @@ input {
     width: 170px;
     display: flex;
     text-align: center;
-    border: 2px palegreen solid;
+    border: 2px black solid;
     outline: none;
     cursor: text;
     position: fixed;
@@ -21,7 +21,7 @@ input {
     width: 170px;
     display: flex;
     text-align: center;
-    border: 2px palegreen solid;
+    border: 2px black solid;
     background-color: white;
     outline: none;
     cursor: pointer;
@@ -30,7 +30,7 @@ input {
     left: 190px;
     text-align: center;
     justify-content: center;
-    color: palegreen;
+    color: black;
     font-size: 30px;
 }
 
