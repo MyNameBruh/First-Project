@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoader', Initialize);
+document.addEventListener('DOMContentLoaded', Initialize);
 
 var Input1;
 var Input2;
