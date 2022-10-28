@@ -8,7 +8,7 @@ function Initialize() {
     Input1 = document.getElementById('Input1');
     Input2 = document.getElementById('Input2');
     EntBtn = document.getElementById('Enter');
-    EntBtn.addEventlistener('click', print);
+    EntBtn.addEventListener('click', Print);
 }
 
 function Print() {
