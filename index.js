@@ -10,5 +10,5 @@ function Initialize() {
 }
 
 function Print() {
-    alert(Input1);
+    alert(Input1.value);
 }
