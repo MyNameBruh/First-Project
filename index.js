@@ -13,5 +13,5 @@ function Initialize() {
 
 function Print() {
     var InputVals = Input1.value + "+" + Input2.value;
-    console.log(eval(InputVals));
+    alert(eval(InputVals));
 }
