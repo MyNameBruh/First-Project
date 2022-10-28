@@ -4,6 +4,10 @@ body {
     display: inline-flex;
 }
 
+head {
+    font-size: 40px;
+}
+
 input {
     height: 40px;
     width: 170px;
